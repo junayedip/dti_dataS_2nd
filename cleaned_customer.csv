@@ -1,0 +1,95 @@
+customer_id,name,email,city,gender,age,product_category,purchase_amount,rating,status
+0,Alice Johnson,alice@email.com,new york,Female,28,Electronics,250.5,4,Active
+1,Bob Smith,bob@email.com,  los angeles  ,Male,34,Clothing,89.99,3,active
+2,Carol White,carol@email.com,CHICAGO,Female,45,Groceries,134,5,ACTIVE
+3,David Brown,david@email.com,houston,Male,52,Electronics,899,2,inactive
+4,Eva Martinez,eva@email.com,phoenix,Female,29,Clothing,45.5,4,Active
+5,Frank Lee,frank@email.com,  philadelphia ,Male,38,Groceries,67,3,Inactive
+6,Grace Kim,grace@email.com,san antonio,Female,31,Electronics,310,5,active
+7,Henry Wilson,henry@email.com,SAN DIEGO,Male,47,Furniture,560,4,ACTIVE
+8,Iris Chen,iris@email.com,dallas,Female,26,Groceries,23.5,2,active
+9,James Davis,james@email.com,san jose,Male,55,Electronics,1200,5,Active
+10,Karen Taylor,karen@email.com,  austin  ,Female,41,Clothing,112,3,inactive
+11,Liam Harris,liam@email.com,jacksonville,Male,33,Furniture,430,4,Active
+12,Mia Robinson,mia@email.com,FORT WORTH,Female,27,Electronics,199,5,ACTIVE
+13,Noah Clark,noah@email.com,columbus,Male,39,Groceries,55.75,3,active
+14,Olivia Lewis,olivia@email.com,  charlotte  ,Female,50,Clothing,76,4,Active
+15,Peter Walker,peter@email.com,san francisco,Male,44,Electronics,650,2,Inactive
+16,Quinn Hall,quinn@email.com,indianapolis,Female,30,Furniture,320,5,active
+17,Ryan Allen,ryan@email.com,SEATTLE,Male,36,Groceries,43,3,ACTIVE
+18,Sarah Young,sarah@email.com,denver,Female,23,Clothing,88.5,4,Active
+19,Thomas King,thomas@email.com,  nashville  ,Male,48,Electronics,780,5,active
+20,Uma Scott,uma@email.com,oklahoma city,Female,35,Groceries,62,3,Inactive
+21,Victor Green,victor@email.com,el paso,Male,42,Furniture,510,4,Active
+22,Wendy Baker,wendy@email.com,BOSTON,Female,29,Clothing,95,5,ACTIVE
+23,Xavier Adams,xavier@email.com,portland,Male,53,Electronics,940,2,active
+24,Yasmin Nelson,yasmin@email.com,  las vegas  ,Female,32,Groceries,31,4,Active
+25,Zach Carter,zach@email.com,memphis,Male,46,Clothing,67.5,3,Inactive
+26,Amy Mitchell,amy@email.com,louisville,Female,25,Electronics,275,5,active
+27,Ben Perez,ben@email.com,BALTIMORE,Male,40,Furniture,385,4,Active
+28,Clara Roberts,clara@email.com,milwaukee,Female,37,Groceries,49,3,ACTIVE
+29,Dan Turner,dan@email.com,  albuquerque ,Male,51,Clothing,108,2,Inactive
+30,Ella Phillips,ella@email.com,tucson,Female,28,Electronics,420,5,active
+31,Bob Smith,bob@email.com,los angeles,Male,34,Clothing,89.99,3,Active
+32,Fred Campbell,fred@email.com,FRESNO,Male,43,Groceries,74,4,Active
+33,Gina Parker,gina@email.com,sacramento,Female,31,Furniture,290,3,active
+34,Harvey Evans,harvey@email.com,long beach  ,Male,56,Electronics,1100,5,ACTIVE
+35,Ivy Edwards,ivy@email.com,colorado springs,Female,24,Clothing,55,4,Inactive
+36,Jake Collins,jake@email.com,  raleigh  ,Male,38,Groceries,38.5,2,active
+37,Kate Stewart,kate@email.com,miami,Female,33,Electronics,560,5,Active
+38,Leo Sanchez,leo@email.com,OMAHA,Male,49,Furniture,470,3,ACTIVE
+39,Maya Morris,maya@email.com,minneapolis,Female,27,Groceries,29,4,active
+40,Ned Rogers,ned@email.com,  tulsa  ,Male,44,Clothing,83,3,Active
+41,Ora Reed,ora@email.com,arlington,Female,36,Electronics,730,5,Inactive
+42,Paul Cook,paul@email.com,TAMPA,Male,52,Furniture,540,2,active
+43,Quinn Hall,quinn@email.com,indianapolis,Female,30,Furniture,320,5,Active
+44,Rose Morgan,rose@email.com,new orleans,Female,41,Groceries,67,4,ACTIVE
+45,Sam Bell,sam@email.com,wichita,Male,29,Clothing,71.5,3,active
+46,Tina Murphy,tina@email.com,  bakersfield  ,Female,35,Electronics,490,5,Active
+47,Ulric Bailey,ulric@email.com,aurora,Male,47,Groceries,52,4,Inactive
+48,Vera Rivera,vera@email.com,anaheim,Female,32,Clothing,99,3,active
+49,Walt Cooper,walt@email.com,SANTA ANA,Male,55,Furniture,610,5,ACTIVE
+50,Xena Richardson,xena@email.com,corpus christi,Female,26,Electronics,340,4,Active
+51,Yuri Cox,yuri@email.com,  riverside  ,Male,43,Groceries,44,2,active
+52,Zoe Howard,zoe@email.com,lexington,Female,38,Clothing,86,3,Inactive
+53,Alex Ward,alex@email.com,pittsburgh,Male,30,Electronics,580,5,Active
+54,Bella Torres,bella@email.com,ANCHORAGE,Female,22,Furniture,210,4,ACTIVE
+55,Carlos Flores,carlos@email.com,stockton,Male,48,Groceries,61,3,active
+56,Diana Nguyen,diana@email.com,  henderson  ,Female,34,Clothing,78,5,Active
+57,Evan Simmons,evan@email.com,greensboro,Male,41,Electronics,820,4,Inactive
+58,Fiona James,fiona@email.com,plano,Female,27,Groceries,36,2,active
+59,George Watson,george@email.com,  newark  ,Male,52,Furniture,450,5,ACTIVE
+60,Hana Brooks,hana@email.com,laredo,Female,29,Electronics,270,3,Active
+61,Ian Kelly,ian@email.com,MADISON,Male,45,Clothing,93,4,active
+62,Julia Sanders,julia@email.com,glendale,Female,33,Groceries,58,3,Inactive
+63,Kevin Price,kevin@email.com,henderson  ,Male,39,Electronics,670,5,Active
+64,Lily Bennett,lily@email.com,fort wayne,Female,28,Furniture,330,4,ACTIVE
+65,Mike Wood,mike@email.com,  CHANDLER ,Male,54,Clothing,115,2,active
+66,Nora Barnes,nora@email.com,reno,Female,31,Groceries,42,4,Active
+67,Oscar Ross,oscar@email.com,scottsdale,Male,46,Electronics,910,5,Inactive
+68,Petra Henderson,petra@email.com,norfolk,Female,37,Clothing,82,3,active
+69,Quentin Coleman,quentin@email.com,  st. paul  ,Male,43,Furniture,390,4,ACTIVE
+70,Rachel Jenkins,rachel@email.com,gilbert,Female,25,Groceries,27,3,active
+71,Steve Perry,steve@email.com,irving,Male,50,Electronics,760,5,Active
+72,Tara Russell,tara@email.com,CHESAPEAKE,Female,34,Clothing,69,2,Inactive
+73,Ugo Griffin,ugo@email.com,  north las vegas ,Male,41,Furniture,480,4,active
+74,Violet Diaz,violet@email.com,scottsdale,Female,28,Groceries,53,3,ACTIVE
+75,Wade Hayes,wade@email.com,baton rouge,Male,47,Electronics,850,5,Active
+76,Xara Myers,xara@email.com,garland,Female,32,Clothing,91,4,active
+77,Yolanda Ford,yolanda@email.com,  hialeah  ,Female,39,Furniture,360,3,Inactive
+78,Zach Carter,zach@email.com,memphis,Male,46,Clothing,67.5,3,Active
+79,Ava Hamilton,ava@email.com,LINCOLN,Female,24,Groceries,33,5,ACTIVE
+80,Brad Graham,brad@email.com,jersey city,Male,51,Electronics,990,4,active
+81,Cleo Sullivan,cleo@email.com,fort collins,Female,36,Clothing,105,3,Active
+82,Dean Hunt,dean@email.com,  spokane  ,Male,43,Furniture,420,2,Inactive
+83,Elena Wells,elena@email.com,des moines,Female,29,Electronics,380,5,active
+84,Floyd Ford,floyd@email.com,AKRON,Male,55,Groceries,48,4,ACTIVE
+85,Gemma Higgins,gemma@email.com,yonkers,Female,33,Clothing,77,3,Active
+86,Harold Pierce,harold@email.com,  columbus  ,Male,48,Furniture,530,5,active
+87,Ina Shaw,ina@email.com,rochester,Female,27,Electronics,460,4,Inactive
+88,Jose Gordon,jose@email.com,MONTGOMERY,Male,40,Groceries,59,3,ACTIVE
+89,Kim Hicks,kim@email.com,boise,Female,35,Clothing,84,2,active
+90,Lance Silva,lance@email.com,  salt lake city ,Male,44,Electronics,720,5,Active
+91,Mona Dunn,mona@email.com,richmond,Female,30,Furniture,310,4,Inactive
+92,Noel Price,noel@email.com,knoxville,Male,38,Groceries,46,3,active
+93,Olive Burns,olive@email.com,  shreveport  ,Female,52,Clothing,98,5,ACTIVE
